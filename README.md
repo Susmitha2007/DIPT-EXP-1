@@ -209,46 +209,74 @@ plt.axis("off")
 # Output:
 ```
 ```
+
 <img width="433" height="505" alt="image" src="https://github.com/user-attachments/assets/54bc1848-26d7-4ab2-a26b-5bd19a45dc89" />
+
 ```
 ```
+
 <img width="436" height="503" alt="image" src="https://github.com/user-attachments/assets/1c86a862-0301-4e14-ad13-e29c074bd229" />
+
 ```
 ```
+
 <img width="433" height="503" alt="image" src="https://github.com/user-attachments/assets/c6abd343-c476-4b2d-a06e-f6dbccc265af" />
+
 ```
 ```
+
 <img width="433" height="502" alt="image" src="https://github.com/user-attachments/assets/b2a54980-1af8-4ad0-bd16-727190e74e87" />
+
 ```
 ```
+
 <img width="432" height="498" alt="image" src="https://github.com/user-attachments/assets/ced5509f-6579-4a7d-8005-8d588a0280e0" />
+
 ```
 ```
+
 <img width="435" height="502" alt="image" src="https://github.com/user-attachments/assets/c6ec8a18-1ffd-47be-a71b-94d5097bee26" />
+
 ```
 ```
+
 <img width="435" height="497" alt="image" src="https://github.com/user-attachments/assets/9677de86-2612-4819-845a-0568eda7fda3" />
+
 ```
 ```
+
 <img width="440" height="501" alt="image" src="https://github.com/user-attachments/assets/77ba8bee-ecb2-4a6a-96c1-b5c7ae574c25" />
+
 ```
 ```
+
 <img width="433" height="497" alt="image" src="https://github.com/user-attachments/assets/ca5be190-ad7a-48f3-92b9-411c47573eaa" />
+
 ```
 ```
+
 <img width="432" height="497" alt="image" src="https://github.com/user-attachments/assets/9d02f567-38f1-48f4-ad6a-43820f6d0e98" />
+
 ```
 ```
+
 <img width="433" height="501" alt="image" src="https://github.com/user-attachments/assets/edfd3409-374a-451c-8ffd-a62656e7b7c4" />
+
 ```
 ```
+
 <img width="605" height="500" alt="image" src="https://github.com/user-attachments/assets/eb8101fe-6ce0-4e30-a43f-af2fe5d1b792" />
+
 ```
 ```
+
 <img width="482" height="506" alt="image" src="https://github.com/user-attachments/assets/3c50969d-29c6-4c81-8afc-a5bc87e2065a" />
+
 ```
 ```
+
 <img width="438" height="507" alt="image" src="https://github.com/user-attachments/assets/3dffa413-01a3-4d81-9309-1b25d6072db4" />
+
 ```
 ```
 # Result:
