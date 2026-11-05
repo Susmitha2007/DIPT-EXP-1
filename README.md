@@ -189,6 +189,7 @@ o Save the final modified image to your local directory.
 
 
 ## Output:
+
 <img width="412" height="467" alt="image" src="https://github.com/user-attachments/assets/6cc2d171-262f-460e-af0a-17d347320412" />
 <img width="398" height="447" alt="image" src="https://github.com/user-attachments/assets/2adca665-d90e-4562-89b5-64ce5df8b9c7" />
 <img width="417" height="470" alt="image" src="https://github.com/user-attachments/assets/8cca89a6-adce-4c6e-97f9-85a316d5b66e" />
