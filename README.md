@@ -204,6 +204,7 @@ o Save the final modified image to your local directory.
 <img width="436" height="447" alt="image" src="https://github.com/user-attachments/assets/280c501c-fd35-4d02-bf3e-7434e330e7f1" />
 <img width="415" height="447" alt="image" src="https://github.com/user-attachments/assets/17079bc0-0a32-418e-979b-33dc052cc887" />
 <img width="406" height="472" alt="image" src="https://github.com/user-attachments/assets/671e5ad6-1796-45fc-8bf2-18ac0c594d38" />
+
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
 
