@@ -189,22 +189,21 @@ o Save the final modified image to your local directory.
 
 
 ## Output:
-<img width="412" height="467" alt="image" src="https://github.com/user-attachments/assets/ee999025-0d30-4974-8625-8d437a5e438c" />
-<img width="398" height="447" alt="image" src="https://github.com/user-attachments/assets/6539a8b2-4ffb-4df0-8faa-ba069edb1311" />
-<img width="417" height="470" alt="image" src="https://github.com/user-attachments/assets/f1b14e17-0eb3-4b14-8746-64d926461162" />
-<img width="386" height="451" alt="image" src="https://github.com/user-attachments/assets/cd457d96-4200-47f2-a717-e7a1d34fc42e" />
-<img width="405" height="453" alt="image" src="https://github.com/user-attachments/assets/36690ac1-c220-4893-bcab-67b47589c762" />
-<img width="395" height="456" alt="image" src="https://github.com/user-attachments/assets/8f9f7f38-fb86-4b46-8b21-59876c99e30a" />
-<img width="398" height="452" alt="image" src="https://github.com/user-attachments/assets/cd44399e-902b-413f-b6fa-6a5bb7d70260" />
-<img width="391" height="450" alt="image" src="https://github.com/user-attachments/assets/fb46ccec-aecb-4c4c-aedd-206469e33fe7" />
-![Uploading 87b19d5f-966c-4744-92c9-b739a4e313ef.jpg…]()
-<img width="387" height="451" alt="image" src="https://github.com/user-attachments/assets/cc193b21-360e-4db3-940b-d555d92638e1" />
-<img width="392" height="443" alt="image" src="https://github.com/user-attachments/assets/7903f61c-a8a8-488b-9273-7b606fa0d9dd" />
-<img width="393" height="447" alt="image" src="https://github.com/user-attachments/assets/fe529aab-c380-4db1-a670-21edd9681ee3" />
-<img width="548" height="447" alt="image" src="https://github.com/user-attachments/assets/6b1099b3-be77-4bc3-823a-9ce7b9773061" />
-<img width="436" height="447" alt="image" src="https://github.com/user-attachments/assets/75051f48-a501-4c6c-9a8f-a238177a9eea" />
-<img width="415" height="447" alt="image" src="https://github.com/user-attachments/assets/7eed53d6-61fb-4aa4-bbe0-b1099374ccd3" />
-<img width="406" height="472" alt="image" src="https://github.com/user-attachments/assets/2fdb117d-4013-456b-9f71-0b4063779e64" />
+<img width="412" height="467" alt="image" src="https://github.com/user-attachments/assets/d93725a2-65be-49e5-b1e4-eec5c040e980" />
+<img width="398" height="447" alt="image" src="https://github.com/user-attachments/assets/4d211b88-1961-49ca-8766-b9bea5aa0844" />
+<img width="417" height="470" alt="image" src="https://github.com/user-attachments/assets/0b92866d-1afc-4094-aee9-b0a15aca4084" />
+<img width="386" height="451" alt="image" src="https://github.com/user-attachments/assets/427bd04a-6e7c-4243-a5cc-a6d3e4299ce5" />
+<img width="405" height="453" alt="image" src="https://github.com/user-attachments/assets/eae9aca6-5513-41a6-8695-51e240cb6882" />
+<img width="395" height="456" alt="image" src="https://github.com/user-attachments/assets/2c839ccd-f23d-42ae-a97c-4d9c3e20ff46" />
+<img width="398" height="452" alt="image" src="https://github.com/user-attachments/assets/e9a05742-f35c-4791-b6f7-6376611e1dd2" />
+<img width="391" height="450" alt="image" src="https://github.com/user-attachments/assets/e60249c3-55d4-45ea-8322-55803a6b4bce" />
+
+
+
+
+
+
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
